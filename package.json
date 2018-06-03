@@ -1,0 +1,23 @@
+{
+  "name": "react-learning",
+  "version": "1.0.0",
+  "description": "learning react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohammedEssehemy/react-learning.git"
+  },
+  "author": "Mohammed Essehemy <mohammedessehemy@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MohammedEssehemy/react-learning/issues"
+  },
+  "homepage": "https://github.com/MohammedEssehemy/react-learning#readme",
+  "dependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1"
+  }
+}
